@@ -24,3 +24,6 @@ Usage Instructions
 9. Close the UI and change system date to current date or any other date.
 10. Relaunch the UI.
 11. Click on speed or direction buttons. Both speed and direction are enabled.
+
+Troubleshooting
+1. The maven dependency org.junit.jupiter for the Junit test class will need to be present in local repository. Maven clean can resolve the same.
