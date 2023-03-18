@@ -12,6 +12,7 @@ import java.time.LocalDate;
 /**
  * UI class for the Ceiling Fan
  *
+ *
  * @author  Suman Puthran
  */
 public class FanUI {
